@@ -33,14 +33,16 @@ Las librerías externas necesarias son:
 Puedes instalarlas usando `pip`:
 
 ```bash
+
 pip install openpyxl
+
 Ejecución
 1.  Clona este repositorio o descarga los archivos directamente.
 2.  Abre tu terminal o símbolo del sistema.
 3.  Navega hasta el directorio donde guardaste el script.
 4.  Ejecuta el programa con el siguiente comando:
 
-    python Python_Empresas.py
+    python Empresas.py
 
 El script creará o cargará el archivo Listado_Empresas_ARL_Automatizado.xlsx y te presentará el menú principal.
 💡 Uso
@@ -50,13 +52,16 @@ Sigue las opciones del menú en la consola:
 2.  Actualizar empresa existente (por Razón Social): Busca una empresa por su nombre y selecciona los campos a modificar.
 3.  Cargar múltiples empresas (desde consola): Pega tus datos en el formato `CAMPO1|CAMPO2|...|CAMPO15` (consulta los `ENCABEZADOS` en el código para el orden exacto). Finaliza la carga escribiendo `FIN_CARGA`.
 4.  Salir y Guardar: Guarda todos los cambios en el archivo Excel. Asegúrate de que el archivo no esté abierto en otra aplicación (como Microsoft Excel) al momento de guardar para evitar errores de permisos.
+
 📁 Estructura del Proyecto
 .
 ├── Python_Empresas.py       # Script principal del programa
 └── README.md                # Este archivo de documentación
 └── Listado_Empresas_ARL_Automatizado.xlsx # Archivo Excel generado/usado por el script
+
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar, informes de errores o quieres añadir nuevas funcionalidades, no dudes en abrir un *issue* o enviar un *pull request*.
+
 ⚖️ Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
