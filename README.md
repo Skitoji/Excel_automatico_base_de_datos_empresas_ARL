@@ -37,6 +37,7 @@ Puedes instalarlas usando pip:
 
 pip install openpyxl
 
+
 Ejecución
 Clona este repositorio o descarga los archivos directamente.
 
@@ -47,6 +48,7 @@ Navega hasta el directorio donde guardaste el script.
 Ejecuta el programa con el siguiente comando:
 
 python Python_Empresas.py
+
 
 El script creará o cargará el archivo Listado_Empresas_ARL_Automatizado.xlsx y te presentará el menú principal.
 
@@ -66,6 +68,7 @@ Salir y Guardar: Guarda todos los cambios en el archivo Excel. Asegúrate de que
 ├── Python_Empresas.py       # Script principal del programa
 └── README.md                # Este archivo de documentación
 └── Listado_Empresas_ARL_Automatizado.xlsx # Archivo Excel generado/usado por el script
+
 
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar, informes de errores o quieres añadir nuevas funcionalidades, no dudes en abrir un issue o enviar un pull request.
