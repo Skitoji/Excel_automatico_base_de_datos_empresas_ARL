@@ -32,8 +32,8 @@ Las librerías externas necesarias son:
 
 Puedes instalarlas usando `pip`:
 
-```bash
-pip install openpyxl
+`pip install openpyxl`
+
 Ejecución
 1.  Clona este repositorio o descarga los archivos directamente.
 2.  Abre tu terminal o símbolo del sistema.
